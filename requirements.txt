@@ -207,7 +207,7 @@ requests
     #   pythx
     #   vvm
     #   web3
-rlp
+rlp<3
     # via
     #   -r requirements.in
     #   eth-account
