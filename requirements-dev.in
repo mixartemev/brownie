@@ -10,6 +10,6 @@ pytest-cov
 pytest-mock
 sphinx
 sphinx_rtd_theme
-tox
+tox<4
 twine
 wheel
