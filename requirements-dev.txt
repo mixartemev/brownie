@@ -81,7 +81,7 @@ markupsafe==2.1.1
     # via jinja2
 mccabe==0.6.1
     # via flake8
-mypy==0.720
+mypy==0.991
     # via -r requirements-dev.in
 mypy-extensions==0.4.3
     # via
@@ -196,7 +196,7 @@ tox==3.25.0
     # via -r requirements-dev.in
 twine==4.0.0
     # via -r requirements-dev.in
-typed-ast==1.4.3
+typed-ast==1.5.4
     # via mypy
 typing-extensions==4.2.0
     # via mypy
